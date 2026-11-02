@@ -9,7 +9,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist -r https://github.com/juliabzs/webdev.git"
-
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
