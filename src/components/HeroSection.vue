@@ -60,7 +60,7 @@ import hero from '../assets/hero.png'
             <div class="download-loader text-white
             hidden" />
         </div>
-        <a href="./public/resume.pdf"
+        <a href="resume.pdf"
         download="resume.pdf"
         class="pl-2 text-primary">
             Download resume
